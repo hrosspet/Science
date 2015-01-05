@@ -229,3 +229,6 @@
 		- pair programming http://en.wikipedia.org/wiki/Pair_programming
 		- code reviews http://en.wikipedia.org/wiki/Code_review
 		- code refactoring http://en.wikipedia.org/wiki/Code_refactoring
+
+* http://joshmitteldorf.scienceblog.com/2015/01/05/what-is-aging-most-scientists-still-get-it-wrong/
+	- aging is natural and precoded in body
