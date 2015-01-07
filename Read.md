@@ -232,3 +232,7 @@
 
 * http://joshmitteldorf.scienceblog.com/2015/01/05/what-is-aging-most-scientists-still-get-it-wrong/
 	- aging is natural and precoded in body
+
+* http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
+	- humans use their environment as sort of triggers (shortcuts) for complex behavior
+	- this is also connected to addiction
