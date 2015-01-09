@@ -24,9 +24,6 @@
 * http://www.eecg.toronto.edu/~jayar/pubs/kuon/foundtrend08.pdf
 	- about FPGA/ASIC? programming
 
-* https://github.com/prakhar1989/awesome-courses
-	- list of awesome university courses (online?)
-
 * http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
 	- A Few Useful Things to Know about Machine Learning
 	- also in literature folder
@@ -63,3 +60,6 @@
 * https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/
 	- fields in Machine Learning, which are not very well covered in articles/books
 	-> needs research / review
+
+* https://github.com/prakhar1989/awesome-courses
+	- list of awesome university courses (online?)
