@@ -63,3 +63,6 @@
 
 * https://github.com/prakhar1989/awesome-courses
 	- list of awesome university courses (online?)
+
+* http://www.catb.org/~esr/faqs/hacker-howto.html
+	- what is a (white hat) hacker and how to become one
