@@ -236,3 +236,7 @@
 * http://www.npr.org/blogs/health/2015/01/05/371894919/what-heroin-addiction-tells-us-about-changing-bad-habits
 	- humans use their environment as sort of triggers (shortcuts) for complex behavior
 	- this is also connected to addiction
+
+* http://brookeallen.com/pages/archives/1234
+	- how to make the hiring process more humane
+	- "if you care about people they will care back, and with just a little bit of encouragement most people will eagerly learn what you need them to know"
