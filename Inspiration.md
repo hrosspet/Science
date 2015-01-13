@@ -66,3 +66,6 @@
 
 * http://www.catb.org/~esr/faqs/hacker-howto.html
 	- what is a (white hat) hacker and how to become one
+
+* http://aurellem.org/society-of-mind/
+	- The Society of Mind by Marvin Minsky
