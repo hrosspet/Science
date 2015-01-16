@@ -240,3 +240,7 @@
 * http://brookeallen.com/pages/archives/1234
 	- how to make the hiring process more humane
 	- "if you care about people they will care back, and with just a little bit of encouragement most people will eagerly learn what you need them to know"
+
+* http://pixelscommander.com/wp-content/uploads/2014/12/P10.pdf
+	- NASA's 10 rules for developing mission critical code
+	- at least some of them could be used in "ordinary" software projects
