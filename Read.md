@@ -244,3 +244,10 @@
 * http://pixelscommander.com/wp-content/uploads/2014/12/P10.pdf
 	- NASA's 10 rules for developing mission critical code
 	- at least some of them could be used in "ordinary" software projects
+
+* https://www.dartmouth.edu/~matc/MathDrama/reading/Hamming.html
+	- Larry Frazier : "It is the most profound essay I have seen regarding philosophy of science; important, significant, in fact, for our whole understanding of thought, of knowing, or reality."
+	- "Some men went fishing in the sea with a net, and upon examining what they caught they concluded that there was a minimum size to the fish in the sea."
+	- "Just as there are odors that dogs can smell and we cannot, as well as sounds that dogs can hear and we cannot, so too there are wavelengths of light we cannot see and flavors we cannot taste. Why then, given our brains wired the way they are, does the remark "Perhaps there are thoughts we cannot think," surprise you? Evolution, so far, may possibly have blocked us from being able to think in some directions; there could be unthinkable thoughts."
+	- thinking about how Galileo could have been reasoning about falling ball, which would split in two parts. Could they be falling with smaller speed than the original ball? And what if they merged again?
+	"The more he thought about it-and the more you think about it-the more unreasonable becomes the question of when two bodies are one. There is simply no reasonable answer to the question of how a body knows how heavy it is-if it is one piece, or two, or many. Since falling bodies do something, the only possible thing is that they all fall at the same speed-unless interfered with by other forces."
