@@ -69,3 +69,6 @@
 
 * http://aurellem.org/society-of-mind/
 	- The Society of Mind by Marvin Minsky
+
+* [A Framework for Scalable Cognition](https://fe5f942c-a-62cb3a1a-s-sites.googlegroups.com/site/gbialternative1/A%20framework%20for%20scalable%20cognition.pdf?attachauth=ANoY7crrvgsbnIbFTrNYJlMtlNhePuIF_OLHhsyPwMgih_h2RYPsAQ9F4ZhtyvgI6Nn6abHukvTAibuDOlPMflTdmba-rO-rlxrIu2g1oBX_BAbBwYQR7dVXHhWccoDEk6pDXwiGvs117w2nGxmFOccGZN3zTvM40Ab28RSLcl9DbyzUp2rVckMpF-txv23pe_ZJJVmC1oEPoXKKWcuS3zpzV4WuSF-7EeKdGrUPkjqg0KYqRSF718UNl6S-C0dvimNu-EV9R4vK&attredirects=3)
+	- "Propagation of challenges, towards the implementation of Global Brain models"
