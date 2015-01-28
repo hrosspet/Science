@@ -212,8 +212,7 @@
 	- Memcomputing NP-complete problems in polynomial time using polynomial resources
 	- analog devices inside! careful! :)
 
-* Universally preferable behaviour
-	- http://cdn.media.freedomainradio.com/feed/books/UPB/Universally_Preferable_Behaviour_UPB_by_Stefan_Molyneux_PDF.pdf
+* [Universally preferable behaviour](http://cdn.media.freedomainradio.com/feed/books/UPB/Universally_Preferable_Behaviour_UPB_by_Stefan_Molyneux_PDF.pdf)
 	- truth is better than falsehood?
 	- existence of universally preferable behaviour is based on the argument, that if somebody was trying to convince you, that no such thing exits, it would be a paradox. But what if I don't think it exists and thus
 		I am not concerned about it at all (again - I don't care about truth or falsehood), so I don't try to convince anybody
@@ -222,6 +221,7 @@
 	- aha aha, mozna tomu zacinam rozumet: on nedokazuje, ze existuje v kazdem cloveku UPB, ale ze existuje obecne a my se k nemu vice ci mene priblizujeme
 		- morality is clearly optional, but objective
 	- why does he often compare with "drawing a gun and shooting you", if nobody would take such an extreme action
+	- interesting discussion about this book [here](https://bitsharestalk.org/index.php?topic=13746.15)
 
 * http://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/
 	- slow programming
