@@ -74,3 +74,7 @@
 	- "Propagation of challenges, towards the implementation of Global Brain models"
 
 * [Coding is not the new literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
+
+* [How to write a 21st century proof](http://research.microsoft.com/en-us/um/people/lamport/pubs/proof.pdf)
+	- motivational article [A Computer Scientist Tells Mathematicians How To Write Proofs](http://blogs.scientificamerican.com/roots-of-unity/2014/09/24/how-to-write-proofs/)
+	- by Leslie Lamport, a 2013 Turing award winner, who introduces a more concise and hierarchical method for writing mathematical proofs
