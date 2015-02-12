@@ -78,3 +78,6 @@
 * [How to write a 21st century proof](http://research.microsoft.com/en-us/um/people/lamport/pubs/proof.pdf)
 	- motivational article [A Computer Scientist Tells Mathematicians How To Write Proofs](http://blogs.scientificamerican.com/roots-of-unity/2014/09/24/how-to-write-proofs/)
 	- by Leslie Lamport, a 2013 Turing award winner, who introduces a more concise and hierarchical method for writing mathematical proofs
+
+* Neural Networks and Intellect: Using Model-Based Concepts
+	- by Leonid I. Perlovsky (2001)
