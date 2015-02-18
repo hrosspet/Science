@@ -85,3 +85,4 @@
 * [Why Philosophers Should Care About Computational Complexity](http://www.scottaaronson.com/papers/philos.pdf)
 	- concept of computability has helped philosophy, can computational complexity bring something new?
 	- when reading abstract and conclusion parts it reminded me of [Probably Approximately Correct](http://www.amazon.com/Probably-Approximately-Correct-Algorithms-Prospering/dp/0465060722/ref=la_B001H6NF08_1_1?s=books&ie=UTF8&qid=1424253242&sr=1-1) by Leslie Valiant, the author of PAC learning theory
+	- other articles from this author seem interesting as well
