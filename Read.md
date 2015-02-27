@@ -253,3 +253,10 @@
 	"The more he thought about it-and the more you think about it-the more unreasonable becomes the question of when two bodies are one. There is simply no reasonable answer to the question of how a body knows how heavy it is-if it is one piece, or two, or many. Since falling bodies do something, the only possible thing is that they all fall at the same speed-unless interfered with by other forces."
 
 * [Designing media which help us think](http://worrydream.com/MediaForThinkingTheUnthinkable/)
+
+* [Evolving Culture vs Local Minima](http://arxiv.org/abs/1203.2990)
+	- An article, which is very interesting from a non-technical point of view, but also with some ideas, that could be really implemented. The autor, Yoshua Bengio, is a known expert on deep learning. He employs his vast experience with deep nets and finds parallels with learning in humans
+	- First three chapters are a soft introduction to deep nets. There are stated the main difficulties, which are encountered when training deep nets.
+	- Chapter 5 highlights the role of human communication for escaping local minima in learning. This could be implemented in code.
+	- Chapter 6 describes human culture as a dynamic system in which another evolution, which is parallel to the biological one, takes place.
+	- Although the article is quite long, it is very well written and if not all, at least chapters 5 and 6 are worth reading.
