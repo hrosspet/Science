@@ -261,6 +261,6 @@
 	- Chapter 6 describes human culture as a dynamic system in which another evolution, which is parallel to the biological one, takes place.
 	- Although the article is quite long, it is very well written and if not all, at least chapters 5 and 6 are worth reading.
 
-* (DeepWalk: Online learning of social representations)[http://arxiv.org/abs/1403.6652]
+* [DeepWalk: Online learning of social representations](http://arxiv.org/abs/1403.6652)
 	- deep learning of representations of graphs by sampling them with random walks
 	- can be done online, is scalable and parallelizable
