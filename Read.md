@@ -266,7 +266,8 @@
 	- can be done online, is scalable and parallelizable
 
 * [Neurons go wild](http://www.meltingasphalt.com/neurons-gone-wild/)
-	- selfishness => agency
+	- "According to Seung and Dennett, it's precisely because of neuronal selfishness that the brain is able to "spontaneously reorganize itself in response to trauma or novel experiences."
+	- need for survival => selfishness => agency
 	- “Another key fact is that agency isn't intrinsic to a system, but rather something we ascribe to it.”
 	- agency on some level allows agency on higher level of abstraction
 	- agency is an ultimate difference between brains and computers (or between neurons and comp. memory)
