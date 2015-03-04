@@ -264,3 +264,13 @@
 * [DeepWalk: Online learning of social representations](http://arxiv.org/abs/1403.6652)
 	- deep learning of representations of graphs by sampling them with random walks
 	- can be done online, is scalable and parallelizable
+
+* [Neurons go wild](http://www.meltingasphalt.com/neurons-gone-wild/)
+	- selfishness => agency
+	- “Another key fact is that agency isn't intrinsic to a system, but rather something we ascribe to it.”
+	- agency on some level allows agency on higher level of abstraction
+	- agency is an ultimate difference between brains and computers (or between neurons and comp. memory)
+	- we have many agents in our brains, each of them competing for resources
+		- e.g. agents representing our physical needs - hunger, thirst, etc. competing with curiosity, greed, addictions, etc.
+		- our self is just the agent which won the competition of the main control
+	- this way some mental disorders, addiction, etc. can be explained
