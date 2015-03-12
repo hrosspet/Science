@@ -276,5 +276,5 @@
 		- our self is just the agent which won the competition of the main control
 	- this way some mental disorders, addiction, etc. can be explained
 
-* [FAQ for The Atoms of Neural Computation](http://arxiv.org/ftp/arxiv/papers/1410/1410.8826.pdf0
+* [FAQ for The Atoms of Neural Computation](http://arxiv.org/abs/1410.8826)
 	- nice summary for various computational models of brain or separate neural mechanisms for solving cognitive tasks
