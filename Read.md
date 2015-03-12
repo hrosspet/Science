@@ -275,3 +275,6 @@
 		- e.g. agents representing our physical needs - hunger, thirst, etc. competing with curiosity, greed, addictions, etc.
 		- our self is just the agent which won the competition of the main control
 	- this way some mental disorders, addiction, etc. can be explained
+
+* [FAQ for The Atoms of Neural Computation](http://arxiv.org/ftp/arxiv/papers/1410/1410.8826.pdf0
+	- nice summary for various computational models of brain or separate neural mechanisms for solving cognitive tasks
