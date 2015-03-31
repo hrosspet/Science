@@ -278,3 +278,8 @@
 
 * [FAQ for The Atoms of Neural Computation](http://arxiv.org/abs/1410.8826)
 	- nice summary for various computational models of brain or separate neural mechanisms for solving cognitive tasks
+
+* [Nice intuitive explanation of convolutional networks](https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/#continue)
+	- explains how Fourier transform behaves with rotated images
+	- makes a parallel between convolution and diffusion of fluids
+	- relation of convolution to cross-correlation and auto-regression
