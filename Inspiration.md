@@ -89,3 +89,6 @@
 
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
 	- list of recommended readings
+
+* [Is Parallel Programming Hard, And, If So, What Can You Do
+About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2015.01.31a.pdf)
