@@ -92,3 +92,5 @@
 
 * [Is Parallel Programming Hard, And, If So, What Can You Do
 About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2015.01.31a.pdf)
+
+* [MIT's Prof. Sussman's Reading List](http://aurellem.org/thoughts/html/sussman-reading-list.html)
