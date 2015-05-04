@@ -9,7 +9,7 @@
 	- enables learning with probabilistic synapses (~ mutation in evolution)
 	
 * http://artificial-intuition.com/
-	- intelligence - intuition - highly connected to prediction
+	- intelligence - intuition - highly connected to predict#ion
 	- my thoughts: classical approaches can be used for AN training (fast generation of logically deducted states)
 	
 * https://www.youtube.com/watch?v=AyzOUbkUf3M
@@ -265,7 +265,7 @@
 	- deep learning of representations of graphs by sampling them with random walks
 	- can be done online, is scalable and parallelizable
 
-* ######[Neurons gone wild](http://www.meltingasphalt.com/neurons-gone-wild/)
+* ##########[Neurons gone wild](http://www.meltingasphalt.com/neurons-gone-wild/)
 	- "According to Seung and Dennett, it's precisely because of neuronal selfishness that the brain is able to "spontaneously reorganize itself in response to trauma or novel experiences."
 	- need for survival => selfishness => agency
 	- “Another key fact is that agency isn't intrinsic to a system, but rather something we ascribe to it.”
