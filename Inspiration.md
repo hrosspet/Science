@@ -94,3 +94,6 @@
 About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2015.01.31a.pdf)
 
 * [MIT's Prof. Sussman's Reading List](http://aurellem.org/thoughts/html/sussman-reading-list.html)
+
+* [Pei Wang's Reading List](https://sites.google.com/site/narswang/home/agi-introduction/agi-education)
+	- The following list is a partial education plan for students interested in the research of Artificial General Intelligence. It includes materials for roughly 30 one-semester courses.
