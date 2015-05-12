@@ -303,3 +303,7 @@ The idea of societies of agents [Minsky 1977; 1980a; 1980b]
 	- based on addition of 2 nonlinear transforms besides the classic y = H(x,W_h):
 	- y = H(x,W_h) * T(x,W_t) + x * C(x,W_c), where C = 1 - T
 	- classic neural layer for T(x,W_t) = 1, unimpeded information flow for T(x,W_t) = 0
+
+* [Natural police](http://aeon.co/magazine/society/game-theorys-cure-for-corruption-make-us-all-cops/)
+	- corruption (cancer in body, corruption in politics, ...) arises naturally in societies according to game theory
+	- game theory can also be used for finding the cure
