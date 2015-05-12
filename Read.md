@@ -289,3 +289,9 @@
 	- MM mentions that an agent for something can be created in our mind - reminds me of [this](./Read.md#neurons-gone-wild) article about neurons having agency
 The idea of societies of agents [Minsky 1977; 1980a; 1980b]
 	- “When we look up, we are never afraid that the ground has disappeared, though it certainly has “dis-appeared.” This is because Space-Builder remembers all the answers to its questions and never CHANGES any of those answers without reason; moving our eyes or raising our heads provide no cause to exorcise that floor inside our current spatial model of the room. My paper on frame-systems [Minsky 1974] says more about these concepts.”
+
+* [Computing machinery and intelligence](http://cogprints.org/499/1/turing.html)
+	- by A.M.Turing
+	- one of the best articles I've ever read. So interesting and deep thoughts presented in such a simple and readable language!
+	- Turing test introduced
+	- Turing foresaw self-improving programs, evolutionary algorithms, learning machines, reinforcement learning
