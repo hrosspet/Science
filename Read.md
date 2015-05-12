@@ -295,3 +295,11 @@ The idea of societies of agents [Minsky 1977; 1980a; 1980b]
 	- one of the best articles I've ever read. So interesting and deep thoughts presented in such a simple and readable language!
 	- Turing test introduced
 	- Turing foresaw self-improving programs, evolutionary algorithms, learning machines, reinforcement learning
+
+* [Highway networks](http://arxiv.org/abs/1505.00387)
+	- by Srivastava, Greff and **Schmidhuber**
+	- a method for training very deep networks (hundreds of layers) with stochastic gradient descent
+	- gating the flow of information ( -> information highway )
+	- based on addition of 2 nonlinear transforms besides the classic y = H(x,W_h):
+	- y = H(x,W_h) * T(x,W_t) + x * C(x,W_c), where C = 1 - T
+	- classic neural layer for T(x,W_t) = 1, unimpeded information flow for T(x,W_t) = 0
