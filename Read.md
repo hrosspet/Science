@@ -294,7 +294,7 @@ The idea of societies of agents [Minsky 1977; 1980a; 1980b]
 	- by A.M.Turing
 	- one of the best articles I've ever read. So interesting and deep thoughts presented in such a simple and readable language!
 	- Turing test introduced
-	- Turing foresaw self-improving programs, evolutionary algorithms, learning machines, reinforcement learning
+	- Turing foresaw self-improving programs, evolutionary algorithms, learning machines, reinforcement learning, even transmigration of souls
 
 * [Highway networks](http://arxiv.org/abs/1505.00387)
 	- by Srivastava, Greff and **Schmidhuber**
