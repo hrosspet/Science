@@ -97,3 +97,5 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 
 * [Pei Wang's Reading List](https://sites.google.com/site/narswang/home/agi-introduction/agi-education)
 	- The following list is a partial education plan for students interested in the research of Artificial General Intelligence. It includes materials for roughly 30 one-semester courses.
+
+* [List](http://scienceprizes.org/) of Unsolved Scientific Problems with Large Monetary Prizes
