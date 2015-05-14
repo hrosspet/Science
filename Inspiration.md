@@ -99,3 +99,6 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 	- The following list is a partial education plan for students interested in the research of Artificial General Intelligence. It includes materials for roughly 30 one-semester courses.
 
 * [List](http://scienceprizes.org/) of Unsolved Scientific Problems with Large Monetary Prizes
+
+* [Information geometry](http://math.ucr.edu/home/baez/information/)
+	- "This subject, usually considered a branch of statistics, has important applications to machine learning and somewhat unexpected connections to evolutionary biology. "
