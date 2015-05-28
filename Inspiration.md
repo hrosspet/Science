@@ -104,3 +104,6 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 	- "This subject, usually considered a branch of statistics, has important applications to machine learning and somewhat unexpected connections to evolutionary biology. "
 
 * [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/)
+
+* [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics)
+	- The Art of Educated Guessing and Opportunistic Problem Solving
