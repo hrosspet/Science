@@ -102,8 +102,13 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 
 * [Information geometry](http://math.ucr.edu/home/baez/information/)
 	- "This subject, usually considered a branch of statistics, has important applications to machine learning and somewhat unexpected connections to evolutionary biology. "
+	- 
+* [The Hacker Shelf](http://hackershelf.com/browse/?popular=1)
+	- Collection of free books for the intellectually curious
 
 * [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/)
+	- found thanks to The Hacker Shelf
 
 * [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics)
 	- The Art of Educated Guessing and Opportunistic Problem Solving
+	- found thanks to The Hacker Shelf
