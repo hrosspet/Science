@@ -101,8 +101,8 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 * [List](http://scienceprizes.org/) of Unsolved Scientific Problems with Large Monetary Prizes
 
 * [Information geometry](http://math.ucr.edu/home/baez/information/)
-	- "This subject, usually considered a branch of statistics, has important applications to machine learning and somewhat unexpected connections to evolutionary biology. "
-	- 
+	- "This subject, usually considered a branch of statistics, has important applications to machine learning and somewhat unexpected connections to evolutionary biology."
+
 * [The Hacker Shelf](http://hackershelf.com/browse/?popular=1)
 	- Collection of free books for the intellectually curious
 
