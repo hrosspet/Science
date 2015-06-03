@@ -307,3 +307,6 @@ The idea of societies of agents [Minsky 1977; 1980a; 1980b]
 * [Natural police](http://aeon.co/magazine/society/game-theorys-cure-for-corruption-make-us-all-cops/)
 	- corruption (cancer in body, corruption in politics, ...) arises naturally in societies according to game theory
 	- game theory can also be used for finding the cure
+
+* [Cargo Cult Science](http://neurotheory.columbia.edu/~ken/cargo_cult.html)
+	- Richard Feynman on the scientific method and scientific integrity, which is often threatened by external influences (financing, competition)
