@@ -112,3 +112,7 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 * [Street-Fighting Mathematics](https://mitpress.mit.edu/books/street-fighting-mathematics)
 	- The Art of Educated Guessing and Opportunistic Problem Solving
 	- found thanks to The Hacker Shelf
+
+* [Polychronous neuronal groups](http://webber.physik.uni-freiburg.de/~jeti/studenten_seminar/stud_sem_SS_09/Polychronization.pdf)
+	- by Izhikevich
+	- relevant to Neural Group Selection (Edelman), Liquid state machines / Echo state networks
