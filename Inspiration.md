@@ -116,3 +116,5 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 * [Polychronous neuronal groups](http://webber.physik.uni-freiburg.de/~jeti/studenten_seminar/stud_sem_SS_09/Polychronization.pdf)
 	- by Izhikevich
 	- relevant to Neural Group Selection (Edelman), Liquid state machines / Echo state networks
+
+* [The Many-Worlds Interpretation of Quantum Mechanics](http://www-tc.pbs.org/wgbh/nova/manyworlds/pdf/dissertation.pdf)
