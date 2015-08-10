@@ -124,4 +124,8 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 	- [Abram Demski](http://lo-tho.blogspot.cz/) recommended this to me
 
 * [Principles of synthetic intelligence](http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
-	- Joscha Bach
+	- by Joscha Bach
+
+* [Classifier Systems and Genetic Algorithms](http://www.cs.us.es/cursos/ia2/trabajos/BucketBrigade.pdf)
+	- by Booker, Goldberg, Holland
+	- [Abram Demski](http://lo-tho.blogspot.cz/) recommended this to me as a "pattern based theory of mind"
