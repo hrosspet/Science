@@ -122,3 +122,6 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 * [State, Anarchy and Collective Decisions](http://www.amazon.com/State-Anarchy-Collective-Decisions-Applications/dp/0333779320)
 	- Some Applications of Game Theory to Political Economy
 	- [Abram Demski](http://lo-tho.blogspot.cz/) recommended this to me
+
+* [Principles of synthetic intelligence](http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
+	- Joscha Bach
