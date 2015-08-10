@@ -118,3 +118,7 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 	- relevant to Neural Group Selection (Edelman), Liquid state machines / Echo state networks
 
 * [The Many-Worlds Interpretation of Quantum Mechanics](http://www-tc.pbs.org/wgbh/nova/manyworlds/pdf/dissertation.pdf)
+
+* [State, Anarchy and Collective Decisions](http://www.amazon.com/State-Anarchy-Collective-Decisions-Applications/dp/0333779320)
+	- Some Applications of Game Theory to Political Economy
+	- [Abram Demski](http://lo-tho.blogspot.cz/) recommended this to me
