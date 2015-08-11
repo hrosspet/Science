@@ -310,3 +310,7 @@ The idea of societies of agents [Minsky 1977; 1980a; 1980b]
 
 * [Cargo Cult Science](http://neurotheory.columbia.edu/~ken/cargo_cult.html)
 	- Richard Feynman on the scientific method and scientific integrity, which is often threatened by external influences (financing, competition)
+
+* [Schmidhuber's theory of everything](http://people.idsia.ch/~juergen/everything/)
+	- based on Kolmogorov's complexity and many worlds interpretation
+	- one program generating all possible worlds is shorter than a program generating specifically our world
