@@ -129,3 +129,6 @@ About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfb
 * [Classifier Systems and Genetic Algorithms](http://www.cs.us.es/cursos/ia2/trabajos/BucketBrigade.pdf)
 	- by Booker, Goldberg, Holland
 	- [Abram Demski](http://lo-tho.blogspot.cz/) recommended this to me as a "pattern based theory of mind"
+
+* [GitXiv](http://gitxiv.com/)
+	- ArXiv + Git together
