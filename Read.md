@@ -314,3 +314,7 @@ The idea of societies of agents [Minsky 1977; 1980a; 1980b]
 * [Schmidhuber's theory of everything](http://people.idsia.ch/~juergen/everything/)
 	- based on Kolmogorov's complexity and many worlds interpretation
 	- one program generating all possible worlds is shorter than a program generating specifically our world
+
+* [LSTM: A Search Space Odyssey](http://arxiv.org/abs/1503.04069)
+	- Large scale analysis of LSTMs
+	- they find out which links and which hyperparams are important
